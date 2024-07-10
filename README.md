@@ -1,4 +1,4 @@
-[MasterHead](https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg)
+![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg)
 <h1 align="center">Hi 👋, I'm DIVYENDU VIMAL</h1>
 <h3 align="center">A passionate MERN Stack Developer and Competitive Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://e1.pxfuel.com/desktop-wallpaper/947/911/desktop-wallpaper-full-stack-developer-vectors-illustrations-for-full-stack-developer.jpg">
